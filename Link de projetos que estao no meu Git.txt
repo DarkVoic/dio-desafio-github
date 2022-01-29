@@ -1,0 +1,16 @@
+Boa noite galera,
+Segue abaixo os link de alguns projetos que amei desenvolver.
+Os projetos estão públicos no meu GitHub.
+
+Aproveitem e me deem um Follow.
+
+Meu Git: https://github.com/DarkVoic
+
+Meu desafio de Aprendizagem de máquina com JAVA e Weka > https://github.com/DarkVoic/Supervised-Machine-Learning
+
+Meu desafio de Aplicação Web de um banco de empréstimos, usando AspNet > https://github.com/DarkVoic/WebApplication-AspNetCore-PatchBank
+
+Meu desafio Atual de um Site de Trailer de Filmes > https://github.com/DarkVoic/DarkVoic-Projeto-Web---TrailerFlix-
+
+Meu primeiro desafio da faculdade para Algoritmo e Estrutura de Dados > https://github.com/DarkVoic/Trabalho-Ti-Final---Clinica-
+

@@ -1,0 +1,3 @@
+Nessa pasta, você verá um documento .pdf sobre a aula de "Introdução ao Git/GitHub".
+Contento todos os comandos importantes, desde a criação ao commit.
+
